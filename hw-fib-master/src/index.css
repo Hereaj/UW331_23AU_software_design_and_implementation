@@ -1,0 +1,28 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  background-color: rgb(193, 189, 185);
+}
+
+.greeting {
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: rgb(70, 53, 34);
+}
+
+a {
+    text-decoration: none;
+}
+
+.btn {
+  background-color: rgb(228, 157, 44);
+  color: white;
+  border-radius: 4px;
+  padding: 0.5rem 1.5rem;
+}
+
+.btn:hover {
+  background-color: rgb(221, 134, 34);
+}
+
+
